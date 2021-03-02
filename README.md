@@ -27,7 +27,6 @@ Would you like to find me?
 ____
 
 
-[![Ivo-Jr's github stats](
-https://github-readme-stats.vercel.app/api?username=Ivo-Jr&count_private=true)]
-(https://github.com/Ivo-Jr)
+![Ivo-Jr's github stats](
+https://github-readme-stats.vercel.app/api?username=Ivo-Jr&count_private=true)
 
