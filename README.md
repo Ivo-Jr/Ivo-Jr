@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ivo Júnior, from Brazil. 🇧🇷 I work as a Full Stack Developer. 👨🏽‍💻 I'm passionate about the best web and mobile development technologies. ♥️ I'm currently focused on being a reference in my stacks. 🚀
+My name is Ivo Júnior, from Brazil.🇧🇷  I work as a Full Stack Developer.👨🏽‍💻  I'm passionate about the best web and mobile development technologies.♥️  I'm currently focused on being a reference in my stacks.🚀
 
 ### My stacks and tools are:
 
