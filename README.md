@@ -27,6 +27,7 @@ My stacks and tools are:
 
 
 - Would you like to find me?
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-ivo-maciel-j%C3%BAnior-658136145)](https://linkedin.com/in/jos%C3%A9-ivo-maciel-j%C3%BAnior-658136145)
 
 
