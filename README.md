@@ -38,8 +38,10 @@ ____
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ivo-Jr&count_private=true" alt="IvoJunior"/>
-</p>
-<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivo-Jr&layout=compact&show_icons=true&theme=#2C91D4)
+<br />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivo-Jr&layout=compact&show_icons=true&theme=#2C91D4" alt="IvoJunior"/>
+</p>
+
 
