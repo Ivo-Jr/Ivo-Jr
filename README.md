@@ -41,4 +41,4 @@ https://github-readme-stats.vercel.app/api?username=Ivo-Jr&count_private=true)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivo-Jr&layout=compact&show_icons=true&theme=buefy)](https://github.com/Ivo-Jr/github-readme-stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivo-Jr&layout=compact&show_icons=true&theme=#2C91D4)
