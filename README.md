@@ -37,10 +37,9 @@ My name is Ivo Júnior, from Brazil.🇧🇷  I work as a Full Stack Developer.�
 ____
 
 <p align="center">
-![Ivo-Jr's github stats](
-https://github-readme-stats.vercel.app/api?username=Ivo-Jr&count_private=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ivo-Jr&count_private=true" alt="IvoJunior"/>
+</p>
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivo-Jr&layout=compact&show_icons=true&theme=#2C91D4)
-</p>
+
