@@ -44,5 +44,5 @@ ____
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivo-jr&layout=compact&show_icons=true&theme=buefy)](https://github.com/ivo-jr/github-readme-stats)
 
 
-  <img src-"https://github-readme-stats.vercel.app/api/top-langs/?username=ivo-jr&layout=compact&show_icons=true&theme=blue" alt="IvoJr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivo-jr&layout=compact&show_icons=true&theme=blue" alt="IvoJr">
 
