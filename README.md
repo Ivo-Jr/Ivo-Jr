@@ -30,7 +30,7 @@ My name is Ivo Júnior, from Brazil.🇧🇷  I work as a Full Stack Developer.�
 ### Would you like to find me?
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-ivo-maciel-j%C3%BAnior-658136145)](https://linkedin.com/in/jos%C3%A9-ivo-maciel-j%C3%BAnior-658136145)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-junior-658136145)](https://www.linkedin.com/in/ivo-junior-658136145)
 [![Gmail Badge](https://img.shields.io/badge/-maciel.jr95@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maciel.jr95@gmail.com)](mailto:maciel.jr95@gmail.com)
 
 
