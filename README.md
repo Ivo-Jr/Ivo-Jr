@@ -1,47 +1,59 @@
-## Hello guys 👋
+# Hi, I'm Ivo 👋
 
-<!--
-**Ivo-Jr/Ivo-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building scalable systems, solving real business problems, and delivering high-impact solutions.
 
-Here are some ideas to get you started:
+I work with modern front-end architectures, integrations, and data-driven platforms — always aiming for performance, reliability, and clean design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-My name is Ivo Júnior, from Brazil.🇧🇷  I work as a Full Stack Developer.👨🏽‍💻  I'm passionate about the best web and mobile development technologies.♥️  I'm currently focused on being a reference in my stacks.🚀
+## 🚀 What I do
 
-### My stacks and tools are:
+- Design and evolve scalable front-end architectures (microfrontends, modular systems)
+- Build high-performance web applications with real business impact
+- Work with APIs, integrations, and data-intensive interfaces
+- Improve code quality, test coverage, and system reliability
+- Translate business problems into technical solutions
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+---
 
-<br />
+## 🧠 Recent Impact
 
-### Would you like to find me?
+- Increased test coverage from **20% → 85%**, improving system reliability
+- Improved application performance by **30%+**
+- Reduced bugs by **25%** through refactoring and better architecture
+- Contributed to a platform that achieved **3x internal adoption**
 
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-junior-658136145)](https://www.linkedin.com/in/ivo-junior-658136145)
-[![Gmail Badge](https://img.shields.io/badge/-maciel.jr95@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maciel.jr95@gmail.com)](mailto:maciel.jr95@gmail.com)
+## 🛠 Tech Stack
 
+**Frontend:** React, Next.js, React Native, TypeScript, Redux, Context API  
+**Backend:** Node.js, Python  
+**Testing:** Jest, Vitest, TDD  
+**Architecture:** Microfrontends, Scalable Systems  
+**Cloud & DevOps:** Azure, CI/CD  
 
-____
+---
+
+## 🎥 Content & Teaching
+
+- YouTube: https://www.youtube.com/@CanalStackCode — Sharing insights about programming, career, and building real-world projects
+
+---
+
+## 🤝 Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ivo-junior-dev/)
+- 📫 maciel.jr95@gmail.com
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivo-Jr&count_private=true" alt="IvoJunior"/>
-  <br/>
-  ____
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivo-Jr&count_private=true&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivo-jr&layout=compact&show_icons=true&theme=blue" alt="IvoJr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivo-jr&layout=compact" />
 </p>
