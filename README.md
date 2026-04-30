@@ -16,35 +16,24 @@ I work with modern front-end architectures, integrations, and data-driven platfo
 
 ---
 
-## 🧠 Recent Impact
-
-- Increased test coverage from **20% → 85%**, improving system reliability
-- Improved application performance by **30%+**
-- Reduced bugs by **25%** through refactoring and better architecture
-- Contributed to a platform that achieved **3x internal adoption**
-
----
-
 ## 🛠 Tech Stack
 
-**Frontend:** React, Next.js, React Native, TypeScript, Redux, Context API  
-**Backend:** Node.js, Python  
+**Frontend:** React, TypeScript, Redux, Context API  
+**Backend:** Node.js  
 **Testing:** Jest, Vitest, TDD  
 **Architecture:** Microfrontends, Scalable Systems  
 **Cloud & DevOps:** Azure, CI/CD  
 
 ---
 
-## 🎥 Content & Teaching
-
-- YouTube: https://www.youtube.com/@CanalStackCode — Sharing insights about programming, career, and building real-world projects
-
----
 
 ## 🤝 Let's connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ivo-junior-dev/)
-- 📫 maciel.jr95@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-junior-658136145)](https://www.linkedin.com/in/ivo-junior-dev)
+[![Gmail Badge](https://img.shields.io/badge/-maciel.jr95@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maciel.jr95@gmail.com)](mailto:maciel.jr95@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@CanalStackCode)](https://www.youtube.com/@CanalStackCode)
+
+
 
 ---
 
