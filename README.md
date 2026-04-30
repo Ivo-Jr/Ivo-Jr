@@ -18,8 +18,8 @@ I work with modern front-end architectures, integrations, and data-driven platfo
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, TypeScript, Redux, Context API  
-**Backend:** Node.js  
+**Frontend:** React, Next.js, React Native, TypeScript, Redux, Context API  
+**Backend:** Node.js, Python
 **Testing:** Jest, Vitest, TDD  
 **Architecture:** Microfrontends, Scalable Systems  
 **Cloud & DevOps:** Azure, CI/CD  
